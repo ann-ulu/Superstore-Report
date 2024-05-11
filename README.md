@@ -17,3 +17,8 @@ Table of Content
 
 <img src="Superstore Report Images/Yearlymonthly Performance.PNG">
 
+The Yearly/Monthly Performance dashboard offers a comprehensive view of the company's performance, allowing you to analyze trends year-over-year and by month within a chosen year. Key metrics include:
+Yearly Growth: The dashboard showcases positive growth in quantity sold, sales, and profit compared to the previous year.
+Sales Forecast: A line chart forecasts continued sales growth.
+Detailed Analysis: You can drill down on the year to see a month-by-month distribution of sales, providing a deeper understanding of seasonal trends or fluctuations.
+Category & Region Insights: While some high-level breakdowns by category (Furniture, Office Supplies, Technology) and region are included, exploring the data will provide insights into each details. Here's a link to explore the Report [Click here to explore Yearly/monthly Performance](https://app.powerbi.com/view?r=eyJrIjoiY2E4MTFlYzgtZTI2Zi00OWVhLThmYzYtMmFhODcxNzc0NjZkIiwidCI6IjJiYjUyNzlmLThkMTUtNDBlNy05OWUyLTJjYzIzMTg0YzE2NiIsImMiOjh9)
