@@ -7,5 +7,13 @@ As you navigate through the visualizations and dashboards, I encourage you to ex
 Every chart and graph tells a story, offering valuable insights that can guide our decision-making and strategy formulation in the days ahead.
 
 Table of Content
-1. [Yearlymonthly Performance](https://app.powerbi.com/view?r=eyJrIjoiY2E4MTFlYzgtZTI2Zi00OWVhLThmYzYtMmFhODcxNzc0NjZkIiwidCI6IjJiYjUyNzlmLThkMTUtNDBlNy05OWUyLTJjYzIzMTg0YzE2NiIsImMiOjh9)
+1. [Yearly/monthly Performance](https://app.powerbi.com/view?r=eyJrIjoiY2E4MTFlYzgtZTI2Zi00OWVhLThmYzYtMmFhODcxNzc0NjZkIiwidCI6IjJiYjUyNzlmLThkMTUtNDBlNy05OWUyLTJjYzIzMTg0YzE2NiIsImMiOjh9)
 2. [Products](https://app.powerbi.com/view?r=eyJrIjoiY2E4MTFlYzgtZTI2Zi00OWVhLThmYzYtMmFhODcxNzc0NjZkIiwidCI6IjJiYjUyNzlmLThkMTUtNDBlNy05OWUyLTJjYzIzMTg0YzE2NiIsImMiOjh9)
+3. [Location](https://app.powerbi.com/view?r=eyJrIjoiY2E4MTFlYzgtZTI2Zi00OWVhLThmYzYtMmFhODcxNzc0NjZkIiwidCI6IjJiYjUyNzlmLThkMTUtNDBlNy05OWUyLTJjYzIzMTg0YzE2NiIsImMiOjh9)
+4. [Customers and Regional managers](https://app.powerbi.com/view?r=eyJrIjoiY2E4MTFlYzgtZTI2Zi00OWVhLThmYzYtMmFhODcxNzc0NjZkIiwidCI6IjJiYjUyNzlmLThkMTUtNDBlNy05OWUyLTJjYzIzMTg0YzE2NiIsImMiOjh9)
+5. [profit Performance Overview](https://app.powerbi.com/view?r=eyJrIjoiY2E4MTFlYzgtZTI2Zi00OWVhLThmYzYtMmFhODcxNzc0NjZkIiwidCI6IjJiYjUyNzlmLThkMTUtNDBlNy05OWUyLTJjYzIzMTg0YzE2NiIsImMiOjh9)
+
+**Yearly/Monthly Performance**
+### Example Image
+
+![YearlyMonthly Performance](Superstore Report Images/Yearlymonthly Performance.PNG)
