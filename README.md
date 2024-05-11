@@ -1,10 +1,10 @@
 # Superstore-Report
 
-I am delighted to present to you the insights and analysis compiled in this Power BI report. It represents meticulous query writing for data collection, analysis, and interpretation to provide a comprehensive overview of superstore's performance.
+I am delighted to present to you the insights and analysis compiled in this Power BI report. It represents meticulous query writing (T-SQL) for data collection, data analysis, and interpretation to provide a comprehensive overview of superstore's performance.
 
-As you navigate through the visualizations and dashboards, I encourage you to explore the various dimensions of our operations, from sales trends to product performance and customer demographics.
+As you navigate through the visualizations and dashboards, I encourage you to explore the various dimensions, from sales trends to product performance and customer demographics and product segregation
 
-Every chart and graph tells a story, offering valuable insights that can guide our decision-making and strategy formulation in the days ahead.
+Every chart and table tells a story, offering valuable insights that can guide decision-making and strategy formulation in the days ahead.
 
 Table of Content
 1. [Yearly/monthly Performance](https://app.powerbi.com/view?r=eyJrIjoiY2E4MTFlYzgtZTI2Zi00OWVhLThmYzYtMmFhODcxNzc0NjZkIiwidCI6IjJiYjUyNzlmLThkMTUtNDBlNy05OWUyLTJjYzIzMTg0YzE2NiIsImMiOjh9)
@@ -43,3 +43,17 @@ This Products Dashboard provides a summary of product sales performance for a sp
 **Further Analysis:** The dashboard allows users to drill down and analyze trends across different months within a chosen year. This would provide a more comprehensive understanding of sales seasonality and fluctuations 
 Overall, the Superstore product dashboard offers a helpful starting point to get a quick glimpse into product sales performance. However, for a more thorough analysis, use this link to explore live report
  **[Click here to explore Superstore Products](https://app.powerbi.com/view?r=eyJrIjoiY2E4MTFlYzgtZTI2Zi00OWVhLThmYzYtMmFhODcxNzc0NjZkIiwidCI6IjJiYjUyNzlmLThkMTUtNDBlNy05OWUyLTJjYzIzMTg0YzE2NiIsImMiOjh9)**
+
+
+ ## **Location**
+
+<img src="Superstore Report Images/location.PNG">
+
+The location dashboard focuses on sales performance in the United States Here’s a breakdown of the key insights displayed:<br>
+**Profit by Region:***
+A bar chart shows the distribution of total profit across four regions: West, East, South, Central <br>
+A chart shows total sales for each ship mode (Standard Class, Second Class, First Class, Same Day). <br>
+**Top and Bottom States by Sales/Profit:**
+There are two maps, one for top states by sales and another for bottom states by profit
+Overall, the Superstore location dashboard provides a high-level view of sales performance across different regions, location and shipping methods in the United States. 
+ **[Click here to explore Location](https://app.powerbi.com/view?r=eyJrIjoiY2E4MTFlYzgtZTI2Zi00OWVhLThmYzYtMmFhODcxNzc0NjZkIiwidCI6IjJiYjUyNzlmLThkMTUtNDBlNy05OWUyLTJjYzIzMTg0YzE2NiIsImMiOjh9)**
