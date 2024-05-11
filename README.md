@@ -60,7 +60,7 @@ Overall, the Superstore location dashboard provides a high-level view of sales p
 
  ## **Customers and Regional Managers**
 
-<img src="Superstore Report Images/customers and managers.PNGG">
+<img src="Superstore Report Images/customers and managers.PNG">
 
 **Performance Indicators:** The report provides an indepth view of the business’s health through KPIs like Total Quantity, Sales, Profit, and Returned Orders.
 **Sales Analysis:** Detailed sales breakdown by regional Manger and customer distribution by segment offers insights into market penetration and customer behavior.
