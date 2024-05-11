@@ -8,3 +8,4 @@ Every chart and graph tells a story, offering valuable insights that can guide o
 
 Table of Content
 1. [Yearlymonthly Performance](https://app.powerbi.com/view?r=eyJrIjoiY2E4MTFlYzgtZTI2Zi00OWVhLThmYzYtMmFhODcxNzc0NjZkIiwidCI6IjJiYjUyNzlmLThkMTUtNDBlNy05OWUyLTJjYzIzMTg0YzE2NiIsImMiOjh9)
+2. [Products](https://app.powerbi.com/view?r=eyJrIjoiY2E4MTFlYzgtZTI2Zi00OWVhLThmYzYtMmFhODcxNzc0NjZkIiwidCI6IjJiYjUyNzlmLThkMTUtNDBlNy05OWUyLTJjYzIzMTg0YzE2NiIsImMiOjh9)
