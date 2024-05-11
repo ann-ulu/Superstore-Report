@@ -56,13 +56,13 @@ A chart shows total sales for each ship mode (Standard Class, Second Class, Firs
 **Top and Bottom States by Sales/Profit:**
 There are two maps, one for top states by sales and another for bottom states by profit
 Overall, the Superstore location dashboard provides a high-level view of sales performance across different regions, location and shipping methods in the United States. 
-
+ **[Click here to explore Location](https://app.powerbi.com/view?r=eyJrIjoiY2E4MTFlYzgtZTI2Zi00OWVhLThmYzYtMmFhODcxNzc0NjZkIiwidCI6IjJiYjUyNzlmLThkMTUtNDBlNy05OWUyLTJjYzIzMTg0YzE2NiIsImMiOjh9)**
 
  ## **Customers and Regional Managers**
 
 <img src="Superstore Report Images/customers and managers.PNG">
 
-**Performance Indicators:** The report provides an indepth view of the business’s health through KPIs like Total Quantity, Sales, Profit, and Returned Orders.
-**Sales Analysis:** Detailed sales breakdown by regional Manger and customer distribution by segment offers insights into market penetration and customer behavior.
-**Customer Impact:** Identifying top customers by sales and profit generated helps in recognizing valuable relationships and tailoring business strategies accordingly.
+**Performance Indicators:** The report provides an indepth view of the business’s health through KPIs like Total Quantity, Sales, Profit, and Returned Orders. <br>
+**Sales Analysis:** Detailed sales breakdown by regional Manger and customer distribution by segment offers insights into market penetration and customer behavior. <br>
+**Customer Impact:** Identifying top customers by sales and profit generated helps in recognizing valuable relationships and tailoring business strategies accordingly. <br>
  **[Click here to explore customers and Regional Managers Report](https://app.powerbi.com/view?r=eyJrIjoiY2E4MTFlYzgtZTI2Zi00OWVhLThmYzYtMmFhODcxNzc0NjZkIiwidCI6IjJiYjUyNzlmLThkMTUtNDBlNy05OWUyLTJjYzIzMTg0YzE2NiIsImMiOjh9)**
