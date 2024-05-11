@@ -1,8 +1,8 @@
 # Superstore-Report
 
-I am delighted to present to you the insights and analysis compiled in this Power BI report. It represents meticulous query writing (T-SQL) for data collection, data analysis, and interpretation to provide a comprehensive overview of superstore's performance.
+I am delighted to present the insights and analysis compiled in this Power BI report. It represents meticulous query writing (T-SQL) for data collection, data analysis, and interpretation to provide a comprehensive overview of superstore's performance.
 
-As you navigate through the visualizations and dashboards, I encourage you to explore the various dimensions, from sales trends to product performance and customer demographics and product segregation
+As you navigate through the visualizations and dashboards, I urge you to explore various dimensions, from sales trends to product performance and customer demographics and product segregation.
 
 Every chart and table tells a story, offering valuable insights that can guide decision-making and strategy formulation in the days ahead.
 
@@ -56,4 +56,13 @@ A chart shows total sales for each ship mode (Standard Class, Second Class, Firs
 **Top and Bottom States by Sales/Profit:**
 There are two maps, one for top states by sales and another for bottom states by profit
 Overall, the Superstore location dashboard provides a high-level view of sales performance across different regions, location and shipping methods in the United States. 
- **[Click here to explore Location](https://app.powerbi.com/view?r=eyJrIjoiY2E4MTFlYzgtZTI2Zi00OWVhLThmYzYtMmFhODcxNzc0NjZkIiwidCI6IjJiYjUyNzlmLThkMTUtNDBlNy05OWUyLTJjYzIzMTg0YzE2NiIsImMiOjh9)**
+
+
+ ## **Customers and Regional Managers**
+
+<img src="Superstore Report Images/customers and managers.PNGG">
+
+**Performance Indicators:** The report provides an indepth view of the business’s health through KPIs like Total Quantity, Sales, Profit, and Returned Orders.
+**Sales Analysis:** Detailed sales breakdown by regional Manger and customer distribution by segment offers insights into market penetration and customer behavior.
+**Customer Impact:** Identifying top customers by sales and profit generated helps in recognizing valuable relationships and tailoring business strategies accordingly.
+ **[Click here to explore customers and Regional Managers Report](https://app.powerbi.com/view?r=eyJrIjoiY2E4MTFlYzgtZTI2Zi00OWVhLThmYzYtMmFhODcxNzc0NjZkIiwidCI6IjJiYjUyNzlmLThkMTUtNDBlNy05OWUyLTJjYzIzMTg0YzE2NiIsImMiOjh9)**
