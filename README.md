@@ -14,6 +14,6 @@ Table of Content
 5. [profit Performance Overview](https://app.powerbi.com/view?r=eyJrIjoiY2E4MTFlYzgtZTI2Zi00OWVhLThmYzYtMmFhODcxNzc0NjZkIiwidCI6IjJiYjUyNzlmLThkMTUtNDBlNy05OWUyLTJjYzIzMTg0YzE2NiIsImMiOjh9)
 
 **Yearly/Monthly Performance**
-### Example Image
 
-![YearlyMonthly Performance](Superstore Report Images/Yearlymonthly Performance.PNG)
+![Yearly Performance](Superstore Report Images/Yearlymonthly Performance.PNG)
+
