@@ -15,5 +15,5 @@ Table of Content
 
 **Yearly/Monthly Performance**
 
-![Yearly Performance](Superstore Report Images/Yearlymonthly Performance.PNG)
+[Yearly Performance](Superstore Report Images/Yearlymonthly Performance.PNG)
 
