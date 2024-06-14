@@ -54,7 +54,7 @@ The location dashboard focuses on sales performance in the United States Here’
 A bar chart shows the distribution of total profit across four regions: West, East, South, Central <br>
 A chart shows total sales for each ship mode (Standard Class, Second Class, First Class, Same Day). <br>
 **Top and Bottom States by Sales/Profit:**
-There are two maps, one for top states by sales and another for bottom states by profit
+There are two maps, one for top states by sales and another for bottom states by profit.<br>
 Overall, the Superstore location dashboard provides a high-level view of sales performance across different regions, location and shipping methods in the United States. 
  **[Click here to explore Location](https://app.powerbi.com/view?r=eyJrIjoiY2E4MTFlYzgtZTI2Zi00OWVhLThmYzYtMmFhODcxNzc0NjZkIiwidCI6IjJiYjUyNzlmLThkMTUtNDBlNy05OWUyLTJjYzIzMTg0YzE2NiIsImMiOjh9)**
 
